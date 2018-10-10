@@ -7,5 +7,15 @@
             ["CodeForces", "1000D"],
             ["UVA", "101"]
         ]
+    },
+    {
+        "title": "Week 1",
+        "problems": [
+            ["Kattis", "printingcosts"],
+            ["Kattis", "functionalfun"],
+            ["Kattis", "flippingcards"],
+            ["Kattis", "classy"],
+            ["Kattis", "tourists"]
+        ]
     }
 ]
