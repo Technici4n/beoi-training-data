@@ -13,8 +13,8 @@
         "problems": [
             ["Kattis", "printingcosts"],
             ["Kattis", "functionalfun"],
-            ["Kattis", "flippingcards"],
             ["Kattis", "classy"],
+            ["Kattis", "flippingcards"],
             ["Kattis", "tourists"]
         ]
     }
