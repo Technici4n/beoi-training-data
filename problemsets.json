@@ -17,5 +17,18 @@
             ["Kattis", "flippingcards"],
             ["Kattis", "tourists"]
         ]
+    },
+    {
+        "title": "Week 2",
+        "problems": [
+            ["Kattis", "codecleanups"],
+            ["Kattis", "runlengthencodingrun"],
+            ["Kattis", "babybites"],
+            ["Kattis", "dasblinkenlights"],
+            ["Kattis", "recipes"],
+            ["Kattis", "leftandright"],
+            ["Kattis", "monitoringskipaths"],
+            ["Kattis", "bingoties"]
+        ]
     }
 ]
