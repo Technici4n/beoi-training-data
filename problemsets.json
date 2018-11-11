@@ -30,5 +30,17 @@
             ["Kattis", "monitoringskipaths"],
             ["Kattis", "bingoties"]
         ]
+    },
+    {
+        "title": "Contest 2",
+        "problems": [
+            ["CodeForces", "630A"],
+            ["CodeForces", "629B"],
+            ["CodeForces", "1063B"],
+            ["CodeForces", "1063C"],
+            ["CodeForces", "1043D"],
+            ["CodeForces", "607B"],
+            ["CodeForces", "1059D"]
+        ]
     }
 ]
